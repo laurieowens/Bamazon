@@ -1,0 +1,12 @@
+item_id,product_name,department_name,price,stock_quantity
+1,Gizmo,TBD,12.50,340
+2,Gadget,TBD,24.99,1200
+3,Widget,TBD,19999.00,45
+4,Tool,UITA,59.99,87
+5,Instrument,JISO,1.99,3400
+6,Apparatus,NYK,20983.00,3
+7,Doodad,YTBD,0.02,5600
+8,Thing,NYK,999.98,40
+9,Doohickey,JISO,8754.48,546
+10,Thingamagig,UITA,7353.23,4398
+11,Whatchamacallit,JISO,5343.97,7
